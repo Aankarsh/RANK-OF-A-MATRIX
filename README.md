@@ -1,5 +1,5 @@
-# Exp no :2
 # Date   :
+# Exp no :2
 # RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
@@ -12,21 +12,19 @@ Step 2:THe input from the user is stored in the variable a</br>
 Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.</br>
 Step 4: end of the program</br>
 ## Program:
-#Developed by:
-
+```
+#Developed by:RUDESH KANNA R
 #RegisterNumber:24900303
 
 import numpy as np
-
-
 matrix = np.array([[3, 2, 5], [1, 1, 2], [3, 3, 6]])
 
 rank = np.linalg.matrix_rank(matrix)
 
 print("", rank)
-
+```
 ## Output:
-![Exp -01-CR- Solving System of linear equations_ Attempt review _ SEC - Google Chrome 14-09-2024 10_44_20](https://github.com/user-attachments/assets/9b91c7e9-65ba-4085-9a23-fb2861e32872)
+![Screenshot 2024-10-08 093905](https://github.com/user-attachments/assets/2ee1cb2f-4eee-4818-8333-d3a08d78c7d4)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
