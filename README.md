@@ -17,8 +17,8 @@ To write a python program to find the rank of a matrix
   end of the program.
 ## Program:
 ```
-Developed by:RUDESH KANNA R
-RegisterNumber:24900303
+Developed by:AANKARSH
+RegisterNumber:22304386
 
 
 import numpy as np
